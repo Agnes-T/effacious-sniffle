@@ -1,0 +1,45 @@
+#eyeLeft
+{
+	height:150px;
+	width:150px;
+	border: 5px solid #000000;
+	border-radius: 150px;
+    padding: 20px; 
+	position:relative; 
+	top:50px;
+	left:150px;
+}
+
+#eyeRight
+{
+	height:150px;
+	width:150px;
+	border: 5px solid #000000;
+	border-radius: 150px;
+    padding: 20px; 
+	position:relative; 
+	top:-150px;
+	left:500px;
+}
+
+#nose
+{
+	height:80px;
+	width:80px;
+	border: 5px solid #000000;
+    padding: 20px; 
+	position:relative; 
+	top:-100px;
+	left:350px;
+}
+
+#mouth
+{
+	height:80px;
+	width:600px;
+	border: 5px solid #000000;
+    padding: 20px; 
+	position:relative; 
+	top:0px;
+	left:100px;
+}
